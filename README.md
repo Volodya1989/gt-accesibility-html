@@ -23,7 +23,7 @@ This simple HTML file uses best practices for accessility and programming.
 ![Horiseon Readmy part 1](./assets/images/HoriseonReadme_part1.png)
 
 
-![Horiseon Readmy part 2](./assets/images/HoriseonReadmy_part2.png)
+![Horiseon Readmy part 2](./assets/images/HoriseonReadme_part2.png)
 
 ## Credits
 
