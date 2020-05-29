@@ -2,7 +2,7 @@
 
 ![badmath](https://img.shields.io/badge/Accessibility-HTML-blue)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+<!-- [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) -->
 
 
 ## Table of Contents
@@ -14,11 +14,16 @@
 
 ## Installation
 
-Clone the repo, and run the index.html file in browser.
+1. Clone the repo.
+2. Run the index.html file in browser.
 
 ## Usage
 
 This simple HTML file uses best practices for accessility and programming.
+
+[Deployed Horiseon Website Link ](https://volodya1989.github.io/gt-accessibility-html/)
+
+
 
 ![Horiseon Readmy part 1](./assets/images/HoriseonReadme_part1.png)
 
@@ -51,8 +56,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contributing
+<!-- ## Contributing
 
-If you would like to contribute to this project, please follow the [Contributor Covenant](https://www.contributor-covenant.org/) guidelines.
+If you would like to contribute to this project, please follow the [Contributor Covenant](https://www.contributor-covenant.org/) guidelines. -->
 
 
