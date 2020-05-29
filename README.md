@@ -20,10 +20,10 @@ Clone the repo, and run the index.html file in browser.
 
 This simple HTML file uses best practices for accessility and programming.
 
-![Horiseon Readmy part 1](../assets/images/HoriseonReadmy_part1.png)
+![Horiseon Readmy part 1](./assets/images/HoriseonReadmy_part1.png)
 
 
-![Horiseon Readmy part 2](../assets/images/HoriseonReadmy_part2.png)
+![Horiseon Readmy part 2](./assets/images/HoriseonReadmy_part2.png)
 
 ## Credits
 
