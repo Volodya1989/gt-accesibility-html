@@ -27,7 +27,7 @@ This simple HTML file uses best practices for accessility and programming.
 
 ## Credits
 
-This was a solo project comlepeted as homework for the Georgia Tech, FullStack Flex program.
+This was a solo project comlepeted by Volodymyr Petrytsya as homework for the Georgia Tech, FullStack Flex program.
 
 ## MIT License 
 
