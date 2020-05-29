@@ -2,6 +2,9 @@
 
 ![badmath](https://img.shields.io/badge/Accessibility-HTML-blue)
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -17,9 +20,11 @@ Clone the repo, and run the index.html file in browser.
 
 This simple HTML file uses best practices for accessility and programming.
 
-![Horiseon Readmy part 1](./HoriseonReadmy_part1.png)
+![Horiseon Readmy part 1](../assets/images/HoriseonReadmy_part1.png)
 
-![Horiseon Readmy part 2](./HoriseonReadmy_part2.png)
+
+![Horiseon Readmy part 2](../assets/images/HoriseonReadmy_part2.png)
+
 ## Credits
 
 This was a solo project comlepeted as homework for the Georgia Tech, FullStack Flex program.
@@ -48,7 +53,6 @@ SOFTWARE.
 
 ## Contributing
 
-<!-- some text -->
-
+If you would like to contribute to this project, please follow the [Contributor Covenant](https://www.contributor-covenant.org/) guidelines.
 
 
