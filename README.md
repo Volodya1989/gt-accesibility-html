@@ -1,8 +1,8 @@
 # Accessibility in HTML
 
-![badmath](https://img.shields.io/badge/Accessibility-HTML-blue)
+![badmath](https://img.shields.io/badge/accessibility-HTML-blue)
 
-<!-- [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) -->
+![Contributor Covenant](https://img.shields.io/badge/license-MIT-brightgreen)
 
 
 ## Table of Contents
