@@ -10,7 +10,9 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [MIT License](#mit_license)
+* [MIT License](#mitlicense)
+
+* [MIT License](#mitlicense)
 
 ## Installation
 
